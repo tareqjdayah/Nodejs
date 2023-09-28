@@ -14,9 +14,11 @@ var restify = require('restify')
     , server = restify.createServer({name: SERVER_NAME})
 
 server.listen(PORT, HOST, function () {
-    console.log('Server %s listening at %s', server.name, server.price)
-    console.log('Endpoints: %s/products', server.price)
+    console.log('Server %s listening at %s', server.name, server.url)
+    console.log('Endpoints: %s/products', server.url)
     console.log('Method: GET, POST,Delete')
+    console.log('test')
+
 })
 
 server.use(restify.fullResponse()).use(restify.bodyParser())
