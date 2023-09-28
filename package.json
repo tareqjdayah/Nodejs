@@ -1,0 +1,12 @@
+{
+  "name": "MAPD713 - A1 - Heba Al-Alqamawi / Tareq",
+  "version": "1.0.0",
+  "description": "Assigment 2 - REST API - product",
+  "author": "Heba Al-Alqamawi / Tareq",
+  "private": true,  
+  "main": "index.js",
+  "dependencies": {
+    "restify": "^4.3.4",
+    "save": "2.3.0"
+  }
+}
