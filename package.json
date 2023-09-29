@@ -1,8 +1,8 @@
 {
-  "name": "MAPD713 - A1 - Heba Al-Alqamawi / Tareq",
+  "name": "MAPD713 - A1 -Tariq",
   "version": "1.0.0",
   "description": "Assigment 1 - REST API - product",
-  "author": "Heba Al-Alqamawi / Tareq",
+  "author": "Tariq",
   "private": true,  
   "main": "index.js",
   "dependencies": {
