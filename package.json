@@ -1,0 +1,12 @@
+{
+  "name": "MAPD713 - A1 -Tariq",
+  "version": "1.0.0",
+  "description": "Assigment 1 - REST API - product",
+  "author": "Tariq",
+  "private": true,  
+  "main": "index.js",
+  "dependencies": {
+    "restify": "^4.3.4",
+    "save": "2.3.0"
+  }
+}
